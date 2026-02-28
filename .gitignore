@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Output files (generated videos, images, audio)
+output/
+
+# Assets (user-provided media)
+assets/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment variables / secrets
+.env
+*.env
+
+# Database
+*.db
+*.sqlite3
+
+# Logs
+*.log
+
+# Temp
+tmp/
+temp/

@@ -1,0 +1,80 @@
+llm:
+  default_provider: deepseek
+  providers:
+    deepseek:
+      api_key: "${DEEPSEEK_API_KEY}"
+      base_url: "https://api.deepseek.com"
+      model: deepseek-chat
+    openai:
+      api_key: "${OPENAI_API_KEY}"
+      base_url: "https://api.openai.com/v1"
+      model: gpt-4o
+    qwen:
+      api_key: "${QWEN_API_KEY}"
+      base_url: "https://dashscope.aliyuncs.com/compatible-mode/v1"
+      model: qwen-max
+    gemini:
+      api_key: "${GEMINI_API_KEY}"
+      base_url: "https://generativelanguage.googleapis.com/v1beta/openai/"
+      model: gemini-2.0-flash
+
+tts:
+  engine: edge-tts
+  voice: zh-CN-YunxiNeural
+  rate: "+10%"
+  volume: "+0%"
+
+digital_human:
+  engine: heygem
+  api_url: "http://localhost:8080"
+  reference_video: "./assets/avatar.mp4"
+  resolution: "1080x1920"
+
+post_production:
+  subtitle:
+    font: "Noto Sans CJK SC"
+    font_size: 20
+    outline_width: 2
+    position: "bottom"
+    margin_bottom: 60
+  bgm:
+    enabled: true
+    volume: 0.08
+    directory: "./assets/bgm"
+  cover:
+    title_font_size: 64
+    title_color: "white"
+    background_blur: 20
+
+schedule:
+  topic_cron: "0 6 * * *"
+  produce_cron: "0 8 * * *"
+  publish_cron: "0 12,20 * * *"
+
+content:
+  niche: "AI与科技"
+  video_duration_min: 60
+  video_duration_max: 90
+  word_count_min: 250
+  word_count_max: 400
+  daily_output: 3
+
+publish:
+  aigc_label: true
+  platforms:
+    - douyin
+    - kuaishou
+    - bilibili
+    - xiaohongshu
+    - weixin_video
+  golden_hours:
+    - "07:30"
+    - "12:00"
+    - "20:00"
+
+database:
+  url: "sqlite:///./data/makeflow.db"
+
+output:
+  base_dir: "./output"
+  temp_dir: "./output/temp"

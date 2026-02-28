@@ -12,9 +12,6 @@ build/
 venv/
 env/
 
-# Output files (generated videos, images, audio)
-output/
-
 # Assets (user-provided media)
 assets/
 

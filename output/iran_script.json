@@ -1,0 +1,43 @@
+{
+  "publish_title": "突发！美以联合空袭伊朗",
+  "tags": [
+    "#中东局势",
+    "#伊朗",
+    "#美国",
+    "#以色列",
+    "#国际新闻"
+  ],
+  "scenes": [
+    {
+      "scene_id": 1,
+      "narration": "就在刚刚，中东传来重磅消息！美国与以色列对伊朗发动了联合军事打击，德黑兰市中心传出剧烈爆炸声，浓烟升起，这是自伊拉克战争以来美国在中东最大规模的军事行动！",
+      "image_prompt": "Photojournalistic style, dramatic: massive explosion and smoke rising over a Middle Eastern city skyline at night, anti-aircraft tracers in the dark sky, dramatic orange fire glow, 4K news photography"
+    },
+    {
+      "scene_id": 2,
+      "narration": "据报道，约30个目标被精确打击，包括领导人办公室附近、总统官邸和情报总部。多枚导弹击中德黑兰市中心，北部和西部省份也发生爆炸，部分区域手机通信完全中断。",
+      "image_prompt": "Photojournalistic style: aerial satellite view of a bombed government complex in a Middle Eastern capital, multiple impact craters visible, smoke plumes, military reconnaissance photography style, high resolution"
+    },
+    {
+      "scene_id": 3,
+      "narration": "美军出动了史无前例的军事力量。两艘航空母舰在波斯湾形成双航母战斗群，11架最先进的F-22隐形战机部署到以色列，近20架加油机提供空中支援，规模堪比伊拉克战争。",
+      "image_prompt": "Photojournalistic style: US Navy aircraft carrier battle group at sea with fighter jets taking off from deck, dramatic sunset lighting, F-22 stealth fighters in formation flying overhead, military power projection, 4K"
+    },
+    {
+      "scene_id": 4,
+      "narration": "这次行动的背景是什么？此前美伊进行了三轮核谈判，全部破裂。伊朗拒绝转移浓缩铀，坚持核技术权利。美以评估认为已无谈判可能，最终决定动用武力。",
+      "image_prompt": "Photojournalistic style: an empty diplomatic negotiation table with two opposing flags, scattered documents, chairs pushed back, tense abandoned atmosphere, symbolic of failed peace talks, dramatic lighting"
+    },
+    {
+      "scene_id": 5,
+      "narration": "伊朗方面迅速做出强硬回应，军方声称将予以毁灭性反击。以色列全境拉响防空警报，关闭民航空域。伊拉克紧急关闭领空，美国驻卡塔尔使馆启动就地避难。",
+      "image_prompt": "Photojournalistic style: Iron Dome missile defense system intercepting incoming rockets in night sky over a Middle Eastern city, bright trails of interceptor missiles, civilian area below with lights, dramatic news photography"
+    },
+    {
+      "scene_id": 6,
+      "narration": "多国紧急发布安全警告，建议公民立即撤离中东地区。国际油价应声暴涨，全球市场剧烈震荡。中东局势正滑向全面战争的边缘。这场冲突将如何收场？我们持续关注。你觉得事态会进一步升级吗？评论区聊聊。",
+      "image_prompt": "Photojournalistic style: global stock market trading floor screens showing dramatic red numbers and oil price charts spiking upward, worried traders watching screens, financial crisis atmosphere, dramatic blue and red lighting"
+    }
+  ],
+  "full_narration": "就在刚刚，中东传来重磅消息！美国与以色列对伊朗发动了联合军事打击，德黑兰市中心传出剧烈爆炸声，浓烟升起，这是自伊拉克战争以来美国在中东最大规模的军事行动！据报道，约30个目标被精确打击，包括领导人办公室附近、总统官邸和情报总部。多枚导弹击中德黑兰市中心，北部和西部省份也发生爆炸，部分区域手机通信完全中断。美军出动了史无前例的军事力量。两艘航空母舰在波斯湾形成双航母战斗群，11架最先进的F-22隐形战机部署到以色列，近20架加油机提供空中支援，规模堪比伊拉克战争。这次行动的背景是什么？此前美伊进行了三轮核谈判，全部破裂。伊朗拒绝转移浓缩铀，坚持核技术权利。美以评估认为已无谈判可能，最终决定动用武力。伊朗方面迅速做出强硬回应，军方声称将予以毁灭性反击。以色列全境拉响防空警报，关闭民航空域。伊拉克紧急关闭领空，美国驻卡塔尔使馆启动就地避难。多国紧急发布安全警告，建议公民立即撤离中东地区。国际油价应声暴涨，全球市场剧烈震荡。中东局势正滑向全面战争的边缘。这场冲突将如何收场？我们持续关注。你觉得事态会进一步升级吗？评论区聊聊。"
+}
